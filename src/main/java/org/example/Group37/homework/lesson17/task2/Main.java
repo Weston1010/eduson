@@ -1,4 +1,4 @@
-package Group37.homework.lesson17.task2;
+package org.example.Group37.homework.lesson17.task2;
 
 import java.util.Arrays;
 

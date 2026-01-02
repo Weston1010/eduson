@@ -1,4 +1,4 @@
-package Group37.homework.lesson17.task1;
+package org.example.Group37.homework.lesson17.task1;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;

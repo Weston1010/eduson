@@ -1,4 +1,4 @@
-package Group37.homework.lesson17.task5;
+package org.example.Group37.homework.lesson17.task5;
 
 import java.util.Scanner;
 import java.util.function.Supplier;

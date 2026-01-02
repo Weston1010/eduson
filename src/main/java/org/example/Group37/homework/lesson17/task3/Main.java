@@ -1,4 +1,4 @@
-package Group37.homework.lesson17.task3;
+package org.example.Group37.homework.lesson17.task3;
 
 import java.util.Scanner;
 import java.util.function.Function;
