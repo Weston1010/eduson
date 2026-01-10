@@ -1,0 +1,33 @@
+package org.example.Group37.homework.lesson7.taskWithStar;
+
+class Cat implements Cloneable {
+    private final String name;
+    private int age;
+
+    public Cat(String name, int age) {
+        this.name = name;
+        this.age = age;
+    }
+
+    public void voice() {
+        System.out.println("Meow");
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
+
+    @Override
+
+    public Object clone() throws CloneNotSupportedException {
+        return super.clone();
+    }
+}
